@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+  <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/308/7943550308_1a2f6898-a592-44fb-abcf-56e9a9397e19.png?cb=1669029210" width="300" height="100">
 </p>	
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
