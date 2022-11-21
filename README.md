@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Faisal Mujtaba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Development from Masai School Bangalore
-- 💞️ I’m looking to collaborate on Any React project
-- 📫 mujtabafaisal944.fk@gmail.com 
+
 
 
 <p align="center">
@@ -27,7 +23,16 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
 
+
+- 👋 Hi, I’m Faisal Mujtaba
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Full Stack Development from Masai School Bangalore
+- 💞️ I’m looking to collaborate on Any React project
+- 📫 mujtabafaisal944.fk@gmail.com 
+
 <!---
 faisalinfinity/faisalinfinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
