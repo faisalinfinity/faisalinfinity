@@ -9,9 +9,8 @@
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 
-I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
+I am a software engineer from India. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). 
 
-Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
 
 <ul>
 <li>Front-End Web Developer</li>
@@ -25,7 +24,7 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 
 
 - 👋 Hi, I’m Faisal Mujtaba
-- 👀 I’m interested in ...
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack Development from Masai School Bangalore
 - 💞️ I’m looking to collaborate on Any React project
 - 📫 mujtabafaisal944.fk@gmail.com 
