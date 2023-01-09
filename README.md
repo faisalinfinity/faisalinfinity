@@ -9,16 +9,117 @@
 
 - 🔭 I’m currently working on **Mediagenix**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1heintrovertboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1heintrovertboy" height="30" width="40" /></a>
-</p>
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/faisal-mujtaba-480601244">Faisal Mujtaba 💻</a>!
+</h2>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,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" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Hi there! I'm a full-stack web developer with over 1000+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  JavaScript, Typescript and React, and I'm always looking to learn and try new technologies.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalinfinity&show_icons=true&locale=en&layout=compact" alt="faisalinfinity" /></p>
+In my free time, I enjoy contributing to open source projects and attending meetups and hackathons. You can find some of my work on GitHub, and be sure to check out my website for more information about my projects and experience.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalinfinity&show_icons=true&locale=en" alt="faisalinfinity" /></p>
+Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalinfinity&" alt="faisalinfinity" /></p>
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
+
+   <p align="center" color:"red">
+     <a href="">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Faisal+Mujtaba;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
+      </p>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+- 🔭 I’m currently working on **Frontend & Backend**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/faisal-mujtaba-480601244" target="_blank">LinkedIn</a> & GitHub**
+
+- 📫 Reach me on **mujtabafaisal944.fk@gmail.com** 
+
+- 💬 Open for your suggestions
+ 
+- 🌐 Have a look at my <a href="https://faisalinfinity.github.io" target="_blank">Portfolio</a>
+
+- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_target">Resume</a>
+
+
+
+<h2>🥇 Technical Skills:  </h2>  
+
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+
+<br/>
+<br/>
+   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+  
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+    <img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' align='center' alt='storybook' />
+   <br/>
+<br/>
+  </div>
+  
+  
+
+<div align="center" >
+        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
+ 
+</div>
+
+## 📊 Statistics  
+<!-- github status  -->
+
+<div align="center" style="display: flex; gap:50px">
+ <img src="https://github-readme-stats.vercel.app/api?username=faisalinfinity&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
+
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=faisalinfinity&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
+
+</div>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalinfinity&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+
+</div>
+
+
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Saurabh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faisalinfinity&theme=react-dark&hide_border=true" /></a>
+
+
+<br> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-mujtaba-480601244) 
+
+
