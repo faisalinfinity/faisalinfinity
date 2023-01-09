@@ -6,8 +6,6 @@
 
 
 
-- 🔭 I’m currently working on **Mediagenix**
-
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/faisal-mujtaba-480601244">Faisal Mujtaba 💻</a>!
 </h2>  
@@ -88,7 +86,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br/>
   </div>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="faisalinfinity" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="faisalinfinity" /> </p>
   
   
 
