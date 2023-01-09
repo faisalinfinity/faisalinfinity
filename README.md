@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Faisal Mujtaba</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="faisalinfinity" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalinfinity" alt="faisalinfinity" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/1heintrovertboy" target="blank"><img src="https://img.shields.io/twitter/follow/1heintrovertboy?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
+
+
+
+
 
 - 🔭 I’m currently working on **Mediagenix**
 
@@ -43,7 +42,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 🌐 Have a look at my <a href="https://faisalinfinity.github.io" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1w6skRez72kCV9W7hv4TTjIqgrYb9NASF/view?usp=sharing" target="_target">Resume</a>
+- <p align="left"> <a href="https://twitter.com/1heintrovertboy" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_mujtaba_?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
 
 
 
@@ -88,6 +88,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br/>
   </div>
   
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="faisalinfinity" /> </p>
+  
   
 
 <div align="center" >
@@ -97,6 +99,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 ## 📊 Statistics  
 <!-- github status  -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalinfinity" alt="faisalinfinity" /></a> </p>
 
 <div align="center" style="display: flex; gap:50px">
  <img src="https://github-readme-stats.vercel.app/api?username=faisalinfinity&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
@@ -114,7 +117,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Saurabh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faisalinfinity&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Faisal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faisalinfinity&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
