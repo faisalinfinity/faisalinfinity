@@ -21,8 +21,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
    <p align="center" color:"red">
-     <a href="">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Faisal+Mujtaba;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
+   
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Faisal+Mujtaba;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos">
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
