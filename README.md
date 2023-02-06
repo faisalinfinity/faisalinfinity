@@ -38,7 +38,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 - 💬 Have a look at my [Portfolio](https://faisalinfinity.github.io/) 
 
 - 📄 Download my <a href="https://drive.google.com/file/d/1w6skRez72kCV9W7hv4TTjIqgrYb9NASF/view?usp=sharing" target="_target">Resume</a>
-- <p align="left"> <a href="https://twitter.com/1heintrovertboy" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_mujtaba_?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
+- <p align="left"> <a href="https://twitter.com/faisal_mujtaba_" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_mujtaba_?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
 
 
 
