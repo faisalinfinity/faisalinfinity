@@ -10,7 +10,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/faisal-mujtaba-480601244">Faisal Mujtaba 💻</a>!
 </h2>  
 
-Hi there! I'm a full-stack web developer with over 2.2+ years of experience building dynamic and responsive applications. I have a strong background in JavaScript, Typescript and React, Nextjs, Nodejs, Express , Redux  and MongoDB.   I'm always looking to learn and try new technologies and committed to software
+Hi there! I'm a experienced full-stack web developer building dynamic and responsive applications. I have a strong background in JavaScript, Typescript ,React, Nextjs, Nodejs, Express , Redux  and MongoDB.   I'm always looking to learn and try new technologies and committed to software
 development best practices.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
